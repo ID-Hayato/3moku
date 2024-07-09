@@ -2,20 +2,19 @@
 height: 600px;
 width: 600px;
 background-color: black;
-display: flex;
+border: 2px solid black;
 }
-tr{
-    width: 100%;
-}
+
+
 .mas{
     background-color: white;
-    width: 200px;
-    height: 200px;
+  
 }
 .maru{
     height: 100%;
   background-color: red;
     border-radius: 300px;
+
 }
 .batu{
     height: 100%;
